@@ -10,7 +10,23 @@
 
 <ul>
     <li>
-        <span class="date"> 09/07/2019</span>
+        <span class="date">07/02/2020</span>
+        <a href="/changelog-myrp/myrp/20.02.01.html">Primeira liberação de Fevereiro</a>
+    </li>
+    <li>
+        <span class="date">19/12/2019</span>
+        <a href="/changelog-myrp/myrp/20.01.01.html">Liberação de Dezembro</a>
+    </li>
+    <li>
+        <span class="date">14/08/2019</span>
+        <a href="/changelog-myrp/myrp/19.08.02.html">Segunda liberação de Agosto</a>
+    </li>
+    <li>
+        <span class="date">13/08/2019</span>
+        <a href="/changelog-myrp/myrp/19.08.01.html">Primeira liberação de Agosto</a>
+    </li>
+    <li>
+        <span class="date">09/07/2019</span>
         <a href="/changelog-myrp/myrp/19.07.01.html">Primeira liberação de Julho</a>
     </li>
      <li>
@@ -31,23 +47,23 @@
     </li>
     <li>
         <span class="date">15/04/2019</span>
-        <a href="/changelog-myrp/myrp/19.04.02.html">Segunda entrega de Abril</a>
+        <a href="/changelog-myrp/myrp/19.04.02.html">Segunda liberação de Abril</a>
     </li>
     <li>
         <span class="date">01/04/2019</span>
-        <a href="/changelog-myrp/myrp/19.04.01.html">Primeira de Abril</a>
+        <a href="/changelog-myrp/myrp/19.04.01.html">Primeira liberação de Abril</a>
     </li>
     <li>
         <span class="date">18/03/2019</span>
-        <a href="/changelog-myrp/myrp/19.03.02.html">Segunda entrega de Março</a>
+        <a href="/changelog-myrp/myrp/19.03.02.html">Segunda liberação de Março</a>
     </li>
     <li>
         <span class="date">04/03/2019</span>
-        <a href="/changelog-myrp/myrp/19.03.01.html">Primeira entrega de Março</a>
+        <a href="/changelog-myrp/myrp/19.03.01.html">Primeira liberação de Março</a>
     </li>
     <li>
         <span class="date">18/02/2019</span>
-        <a href="/changelog-myrp/myrp/19.02.02.html">Segunda entrega de Fevereiro</a>
+        <a href="/changelog-myrp/myrp/19.02.02.html">Segunda liberação de Fevereiro</a>
     </li>
     <li>
         <span class="date">11/02/2019</span>
